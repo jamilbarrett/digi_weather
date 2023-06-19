@@ -1,0 +1,62 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .search {
+    margin-bottom: 20px;
+  }
+  
+  .search input[type="text"] {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  .search button {
+    padding: 5px 10px;
+  }
+  
+  #current-weather {
+    margin-bottom: 20px;
+  }
+  
+  #forecast {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+  }
+  
+  .forecast-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .forecast-item .date {
+    font-weight: bold;
+  }
+  
+  .forecast-item .weather-icon img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  #history {
+    margin-bottom: 20px;
+  }
+  
+  #history li {
+    cursor: pointer;
+  }
+  
+  #history li:hover {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  #forecast,
+  #current-weather {
+    display: none;
+  }
+
