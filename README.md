@@ -7,4 +7,4 @@ https://jamilbarrett.github.io/digi_weather/
 https://github.com/jamilbarrett/digi_weather/blob/main/README.md
 
 
-<img width="1194" alt="Screenshot 2023-06-14 at 9 59 26 AM (2)" src="https://github.com/jamilbarrett/digi_weather/assets/131481674/4553241a-8e8b-4cfa-8972-6511a2b6c9e0">
+<img width="1187" alt="Screenshot 2023-06-19 at 7 47 33 PM" src="https://github.com/jamilbarrett/digi_weather/assets/131481674/d9a72e75-5112-4446-95ba-28c6c1eef8f8">
